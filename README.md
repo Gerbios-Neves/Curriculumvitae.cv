@@ -1,2 +1,2 @@
-# http://Curriculumvitae.cv
+# http://Curriculumvitae.cv.io
 My personal cv
